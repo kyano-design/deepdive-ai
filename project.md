@@ -1,7 +1,8 @@
 ## projectnaam = neonluck casino
 
 
-## korte beschrijving (wat is het?) = een online casino met virtueel geld, een neon thema met spellen zoals aviator, crash, tower en blackjack.Hoe het werktDe speler ziet 5 kristallen op het scherm.
+## korte beschrijving 
+(wat is het?) = een online casino met virtueel geld, een neon thema met spellen zoals aviator, crash, tower en blackjack.Hoe het werktDe speler ziet 5 kristallen op het scherm.
 - Elk kristal heeft een verborgen multiplier: ×1, ×2, ×5, ×10 of ×20.
 - De speler zet een hoeveelheid nepgeld in.
 - Daarna kiest de speler één kristal om te onthullen.
@@ -61,6 +62,7 @@ Niet nodig zonder echte transacties.
 Geen boekhouding, geen belastingzaken.
 - Geldprijzen of echte beloningen
 Alles blijft virtueel.
+
 
 
 
