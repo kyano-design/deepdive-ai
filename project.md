@@ -1,8 +1,7 @@
-- projectnaam = neonluck casino
+## projectnaam = neonluck casino
 
 
-- korte beschrijving (wat is het?) = een online casino met virtueel geld, een neon thema met spellen zoals aviator, crash, tower en blackjack.Hoe het werkt
-- De speler ziet 5 kristallen op het scherm.
+## korte beschrijving (wat is het?) = een online casino met virtueel geld, een neon thema met spellen zoals aviator, crash, tower en blackjack.Hoe het werktDe speler ziet 5 kristallen op het scherm.
 - Elk kristal heeft een verborgen multiplier: ×1, ×2, ×5, ×10 of ×20.
 - De speler zet een hoeveelheid nepgeld in.
 - Daarna kiest de speler één kristal om te onthullen.
@@ -29,10 +28,10 @@ Extra ideeën
 
 
 
-- doelgroep = gamers en mensen die gratis willen gokken
+## doelgroep = gamers en mensen die gratis willen gokken
 
 
-In scope (valt binnen het project)
+## In scope (valt binnen het project)
 - Virtuele valuta
 Gebruikers kunnen spelen met nepgeld, tokens of credits die geen echte waarde hebben.
 - Gokmechanieken
@@ -49,7 +48,7 @@ Hoeveel nepgeld je krijgt, hoe snel je het verliest, beloningen, daily bonuses.
 Voorkomen dat gebruikers oneindig nepgeld genereren door bugs.
 - Simulatie van kansen
 RNG, uitbetalingspercentages, fairness (zonder echte juridische eisen).
-Out of scope (valt niet binnen het project)
+## Out of scope (valt niet binnen het project)
 - Echt geld
 Geen stortingen, geen uitbetalingen, geen koppeling met bank of crypto.
 - Goklicenties / juridische compliance
@@ -62,6 +61,7 @@ Niet nodig zonder echte transacties.
 Geen boekhouding, geen belastingzaken.
 - Geldprijzen of echte beloningen
 Alles blijft virtueel.
+
 
 
 
