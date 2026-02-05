@@ -29,7 +29,8 @@ Extra ideeën
 
 
 
-## doelgroep = gamers en mensen die gratis willen gokken
+## doelgroep 
+gamers en mensen die gratis willen gokken
 
 
 ## In scope (valt binnen het project)
@@ -62,6 +63,7 @@ Niet nodig zonder echte transacties.
 Geen boekhouding, geen belastingzaken.
 - Geldprijzen of echte beloningen
 Alles blijft virtueel.
+
 
 
 
